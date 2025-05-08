@@ -1,7 +1,7 @@
 {
-  "name": "ts-mern-amazona",
+  "name": "mern-amazona",
   "version": "1.0.0",
-  "description": "## Lessons",
+  "description": "Lessons",
   "main": "index.js",
   "scripts": {
     "dev": "concurrently \"npm run dev --prefix backend\"  \"npm run dev --prefix frontend\" ",
@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/basir/ts-mern-amazona.git"
+    "url": ""
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/basir/ts-mern-amazona/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/basir/ts-mern-amazona#readme",
+  "homepage": "",
   "devDependencies": {
     "concurrently": "^8.0.1"
   }
